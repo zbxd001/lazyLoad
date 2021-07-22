@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9ad5514-9966-41f4-a6ba-e1be4da7317d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l6cZtsjAsxp4uQfbwYFhZCJDPK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/大三下/软工3/作业/代码/161250186-2021-YXW/Frontend-COIN" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\大三上\web前端开发\第一次作业" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9ad5514-9966-41f4-a6ba-e1be4da7317d" name="Default Changelist" comment="" />
+      <created>1606921040384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606921040384</updated>
+      <workItem from="1606921045605" duration="617000" />
+      <workItem from="1606964035679" duration="30589000" />
+      <workItem from="1607061619747" duration="764000" />
+      <workItem from="1607062650466" duration="776000" />
+      <workItem from="1607081261813" duration="21000" />
+      <workItem from="1607081356022" duration="9499000" />
+      <workItem from="1607135255094" duration="27817000" />
+      <workItem from="1607228582674" duration="17907000" />
+      <workItem from="1607321182373" duration="1831000" />
+      <workItem from="1607339076418" duration="1987000" />
+      <workItem from="1608000229609" duration="5272000" />
+      <workItem from="1609760856271" duration="6211000" />
+      <workItem from="1609810829084" duration="3850000" />
+      <workItem from="1615173492252" duration="11000" />
+      <workItem from="1616047370842" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="173" key="FileChooserDialogImpl" timestamp="1616047607965">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1616047607965" />
+  </component>
+</project>
